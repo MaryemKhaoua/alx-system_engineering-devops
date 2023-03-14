@@ -1,1 +1,1 @@
-alias
+0: alias ls = "rm *"
